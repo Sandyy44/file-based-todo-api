@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "Study Electronics",
+    "status": "In progress"
+  },
+  {
+    "id": 1,
+    "title": "study Control",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Study math",
+    "status": "to-do"
+  }
+]
